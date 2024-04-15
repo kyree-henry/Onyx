@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Onyx.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "-v"
+    }
+  }
+}
